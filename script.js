@@ -1,4 +1,5 @@
 /* =============================== MENU SHOW Y HIDDEN ================================== */
+console.log("inside script.js");
 const navMenu = document.getElementById('nav-menu'),
       navToggle = document.getElementById('nav-toggle'),
       navClose = document.getElementById('nav-close')
